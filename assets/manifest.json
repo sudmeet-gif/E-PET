@@ -1,0 +1,30 @@
+{
+  "none": {
+    "frames": 36,
+    "frameSize": [
+      512,
+      512
+    ]
+  },
+  "rose": {
+    "frames": 36,
+    "frameSize": [
+      512,
+      512
+    ]
+  },
+  "sailor": {
+    "frames": 36,
+    "frameSize": [
+      512,
+      512
+    ]
+  },
+  "honey": {
+    "frames": 36,
+    "frameSize": [
+      512,
+      512
+    ]
+  }
+}

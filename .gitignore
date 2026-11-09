@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dist-*/
+release/
+kitten-package/
+qa/
+*-profile/
+*.log
+*.tmp
+*.exe
+*.zip
+.env
+.env.*
+.DS_Store
+Thumbs.db
+assets/source/*-contact.png
